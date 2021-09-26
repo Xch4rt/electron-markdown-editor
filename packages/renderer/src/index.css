@@ -1,0 +1,20 @@
+html, body{
+    background-color: transparent!important;
+    height: 100%;
+}
+/*prueba */
+body {
+    margin : 0;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#root{
+    height: 100%;
+}
