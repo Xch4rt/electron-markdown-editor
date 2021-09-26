@@ -198,3 +198,13 @@ See [Contributing Guide](contributing.md).
 [eslint-plugin-vue]: https://github.com/vuejs/eslint-plugin-vue
 [cawa-93-github]: https://github.com/cawa-93/
 [cawa-93-sponsor]: https://www.patreon.com/Kozack/
+
+
+
+## Resultado Final :)
+![imagen](https://user-images.githubusercontent.com/35347784/134796586-e568b58f-63a7-43ea-8fa7-cc33bcffdcfa.png)
+ ### Cambios que deseo realizar:
+ * Que el fondo sea transparente
+ * Opcione de navegacion entre archivos
+ * Guardar y crear nuevos documentos md
+ 
